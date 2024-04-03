@@ -1,0 +1,9 @@
+.contain-stylo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.stylo {
+    height: 24px;
+    width: 24px;
+}
